@@ -44,16 +44,16 @@ Gráfico: AB5, BC4, CD8, DC8, DE6, AD5, CE2, EB3, AE7
 
 Resultado esperado:
 
-Saída => 9
-Saída => 5
-Saída => 13
-Saída => 22
-Saída => Nenhuma rota
-Saída => 2
-Saída => 3
-Saída => 9
-Saída => 9
-Saída => 7
+<p>Saída => 9</p>
+<p>Saída => 5</p>
+<p>Saída => 13</p>
+<p>Saída => 22</p>
+<p>Saída => Nenhuma rota</p>
+<p>Saída => 2</p>
+<p>Saída => 3</p>
+<p>Saída => 9</p>
+<p>Saída => 9</p>
+<p>Saída => 7</p>
 
 IDE's
 ================
@@ -66,7 +66,7 @@ Como Baixar Este Projeto
 Você pode executar o comando abaixo no terminal ou caso preferir apenas [baixar o arquivo zip aqui](https://github.com/cleitonferreira/Materialized/archive/master.zip) e importar na sua IDE favorita.
 
 ```sh
-git clone https://github.com/cleitonferreira/Materialized.git
+git clone https://github.com/cleitonferreira/trens.git
 ```
 
 Como configurar o projeto no Eclipse
