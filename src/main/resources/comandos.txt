@@ -1,0 +1,10 @@
+distancia? ABC
+distancia? AD
+distancia? ADC
+distancia? AEBCD
+distancia? AED
+viagem? <4 stop CC
+viagem? =4 stop AC
+rotaMaisCurta? AC
+rotaMaisCurta? BB
+viagem? <30 distancia CC
